@@ -1,0 +1,19 @@
+.center {
+    margin: auto;
+    width: 35%;
+    padding: 10px;
+    /* background-color: rgb(4, 218, 164); */
+    /* background-color: rgb(4, 180, 151); */
+
+  }
+  .btnCol{
+      background-color: rgb(4, 194, 178);
+      color:white;
+      font-weight: bold;
+  }
+  label,input,p{
+    opacity: 0.7
+  }
+  h2{
+    font-family: 'Secular One', sans-serif;
+  }
