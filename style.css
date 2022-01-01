@@ -6,10 +6,40 @@
     /* background-color: rgb(4, 180, 151); */
 
   }
+.center1 {
+    margin: auto;
+    width: 700px;
+    padding: 10px;
+    /* background-color: rgb(4, 218, 164); */
+    /* background-color: rgb(4, 180, 151); */
+
+  }
+  .form-control:focus {
+    box-shadow: none;
+  }
   .btnCol{
       background-color: rgb(4, 194, 178);
       color:white;
       font-weight: bold;
+     
+  }
+  .btnCol:focus{
+      box-shadow: none;
+     
+  }
+  .selbtnCol{
+    background-color: rgb(255, 255, 255);
+    color:black;
+    opacity: 0.7;
+    
+    
+  }
+
+  .selbtnCol{
+    box-shadow: none;
+  }
+  .dnone{
+    display: none;
   }
   label,input,p{
     opacity: 0.7
